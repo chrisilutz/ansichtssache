@@ -3,3 +3,6 @@
 *.DS_Store
 /stylesheets/*
 /.git
+/ansichtssache/*
+Gemfile.lock
+*.lock
